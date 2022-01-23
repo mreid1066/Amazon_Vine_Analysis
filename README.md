@@ -3,7 +3,7 @@
 Our team was tasked with analyzing reviews that are initiated by Amazon and carried out by their Amazon Vine members. This service requires a fee and SellBy wants to determine if there is value in this service. We were given 50 datasets of Amazon reviews to choose from and we selected Automotive. However, this code can be repurposed to run any or all of these data sets with minimal refactoring of code and creation of databases.
 
 ## Analysis
-![vine analysis](vine_analysis.png)
+![vine analysis](images/vine_analysis.png)
 
 We found the following when analyzing Amazon's Automotive reviews that had 20 or more votes:
   - There were a total of 82 Vine reviews and 24,742 non-Vine reviews
